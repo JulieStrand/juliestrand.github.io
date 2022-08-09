@@ -14,4 +14,4 @@ I'm new to the coding world and am very excited to use my new skills.
 <a href="https://juliestrand.github.io/map-cluster/">Map Cluster</a><br>
 <a href="https://juliestrand.github.io/eyes/">Eyes</a><br>
 
-Contact:<a href = mailto: julie.de.strand@gmail.com>julie.de.strand@gmail.com</a>
+Contact: <a href="mailto: julie.de.strand@gmail.com">julie.de.strand@gmail.com</a>
