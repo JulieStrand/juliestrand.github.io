@@ -8,10 +8,10 @@ I'm new to the coding world and am very excited to use my new skills.
 
 ## Here is a list of my available repos:
 
-<a href="https://juliestrand.github.io/realtime-bus-tracker/">Real-Time Bus Tracker</a>
-<a href="https://juliestrand.github.io/naoi-tower/">Hanoi Tower</a>
-<a href="https://juliestrand.github.io/heat-map/">Heat Map</a>
-<a href="https://juliestrand.github.io/map-cluster/">Map Cluster</a>
-<a href="https://juliestrand.github.io/eyes/">Eyes</a>
+<a href="https://juliestrand.github.io/realtime-bus-tracker/">Real-Time Bus Tracker</a><br>
+<a href="https://juliestrand.github.io/naoi-tower/">Hanoi Tower</a><br>
+<a href="https://juliestrand.github.io/heat-map/">Heat Map</a><br>
+<a href="https://juliestrand.github.io/map-cluster/">Map Cluster</a><br>
+<a href="https://juliestrand.github.io/eyes/">Eyes</a><br>
 
 Contact: <a href = mailto: julie.de.strand@gmail.com>julie.de.strand@gmail.com</a>
