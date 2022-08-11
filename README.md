@@ -6,12 +6,10 @@ I'm new to the coding world and am very excited to use my new skills.
 <br>
 <br>
 
-## Here is a list of my available repos:
+![istockphoto-542175174-612x612](https://user-images.githubusercontent.com/106036462/174119622-7bebdc15-983f-4ea4-9170-f84c1d73348d.jpeg)
 
-<a href="https://juliestrand.github.io/realtime-bus-tracker/">Real-Time Bus Tracker</a><br>
-<a href="https://juliestrand.github.io/naoi-tower/">Hanoi Tower</a><br>
-<a href="https://juliestrand.github.io/heat-map/">Heat Map</a><br>
-<a href="https://juliestrand.github.io/map-cluster/">Map Cluster</a><br>
-<a href="https://juliestrand.github.io/eyes/">Eyes</a><br>
+<br>
 
-Contact: <a href="mailto: julie.de.strand@gmail.com">julie.de.strand@gmail.com</a>
+## Please check back for more updates  
+<br> 
+Contact: <a href = mailto: julie.de.strand@gmail.com>julie.de.strand@gmail.com</a>
